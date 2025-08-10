@@ -32,7 +32,7 @@
 
 ---
 
-## 📌 Featured Projects  
+
 ## 📌 Featured Projects  
 - **Personal Portfolio** – My main portfolio website showcasing my work and skills.  
 - **Demo Portfolio** – A sample portfolio project created to demonstrate web design and layout skills.  
