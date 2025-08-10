@@ -86,4 +86,5 @@
 
 ---
 
-⭐ **“Consistency beats talent when talent doesn’t work hard.”**  
+<p align="center"><b>⭐ “Consistency beats talent when talent doesn’t work hard.” ⭐</b></p>
+
