@@ -68,17 +68,9 @@
 
 ## 📫 Connect With Me  
 
-<p align="left">
-  <a href="https://linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link.com)  
+[![Email](https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)  
 
 
 
