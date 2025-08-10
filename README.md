@@ -33,9 +33,12 @@
 ---
 
 ## 📌 Featured Projects  
-- **Techisto** – E-commerce platform for tech products.  
-- **UI Snippets** – Collection of modern, reusable web UI components.  
-- **Cybersecurity Commands Repo** – Step-by-step learning of Kali Linux & hacking tools.  
+## 📌 Featured Projects  
+- **Personal Portfolio** – My main portfolio website showcasing my work and skills.  
+- **Demo Portfolio** – A sample portfolio project created to demonstrate web design and layout skills.  
+- **HTML Learning Repository** – A complete collection of HTML examples and explanations to learn HTML from scratch.  
+- **CSS Learning Repository** – A structured repository with CSS examples, layouts, and styling techniques.  
+
 
 ---
 
