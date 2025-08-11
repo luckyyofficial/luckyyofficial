@@ -16,33 +16,33 @@
 
 ### **Programming Languages**  
 <p align="left">
-<img src="./img/c.svg" alt="C" width="40"/>
-<img src="./img/c++.svg" alt="C++" width="40"/>
-<img src="./img/html-5.svg" alt="HTML5" width="40"/>
-<img src="./img/css-3.svg" alt="CSS3" width="40"/>
-<img src="./img/java-script.svg" alt="JavaScript" width="40"/>
+<img src="./img/c.svg" alt="C" width="40" height="40"/>
+<img src="./img/c++.svg" alt="C++" width="40" height="40"/>
+<img src="./img/html-5.svg" alt="HTML5" width="40" height="40"/>
+<img src="./img/css-3.svg" alt="CSS3" width="40" height="40"/>
+<img src="./img/java-script.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
 ### **Web Development**  
 <p align="left">
-<img src="./img/tailwind-css.svg" alt="Tailwind CSS" width="40"/>
+<img src="./img/tailwind-css.svg" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
 ### **Cybersecurity Tools**  
 <p align="left">
-<img src="./img/packet-tracer.svg" alt="Packet Tracer" width="40"/>
-<img src="./img/linux.svg" alt="Linux" width="40"/>
-<img src="./img/kali-linux.svg" alt="Kali Linux" width="40"/>
-<img src="./img/wire-shark.svg" alt="Wireshark" width="40"/>
-<img src="./img/nmap.svg" alt="Nmap" width="40"/>
-<img src="./img/metasploit.svg" alt="Metasploit" width="40"/>
+<img src="./img/packet-tracer.svg" alt="Packet Tracer" width="40" height="40"/>
+<img src="./img/linux.svg" alt="Linux" width="40" height="40"/>
+<img src="./img/kali-linux.svg" alt="Kali Linux" width="40" height="40"/>
+<img src="./img/wire-shark.svg" alt="Wireshark" width="40" height="40"/>
+<img src="./img/nmap.svg" alt="Nmap" width="40" height="40"/>
+<img src="./img/metasploit.svg" alt="Metasploit" width="40" height="40"/>
 </p>
 
 ### **Version Control & IDE**  
 <p align="left">
-<img src="./img/git.svg" alt="Git" width="40"/>
-<img src="./img/github.svg" alt="GitHub" width="40"/>
-<img src="./img/vscode.svg" alt="VS Code" width="40"/>
+<img src="./img/git.svg" alt="Git" width="40" height="40"/>
+<img src="./img/github.svg" alt="GitHub" width="40" height="40"/>
+<img src="./img/vscode.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
@@ -64,10 +64,10 @@
 ---
 
 ## 📬 Connect With Me  
-<p align="center" style="display:flex; gap:20px; justify-content:space-around;">
-<a href="https://your-portfolio-link.com"><img src="./img/portfolio.svg" alt="Portfolio" width="120"/></a>
-<a href="mailto:your-email@example.com"><img src="./img/email.svg" alt="Email" width="120"/></a>
-<a href="https://github.com/yourusername"><img src="./img/github.svg" alt="GitHub" width="120"/></a>
+<p align="center" style="display:flex; gap:30px; justify-content:center;">
+<a href="https://your-portfolio-link.com"><img src="./img/portfolio.svg" alt="Portfolio" width="40" height="40"/></a>
+<a href="mailto:your-email@example.com"><img src="./img/email.svg" alt="Email" width="40" height="40"/></a>
+<a href="https://github.com/yourusername"><img src="./img/github.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
 
 ---
