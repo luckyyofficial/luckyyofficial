@@ -45,26 +45,24 @@
 
 ## 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=luckyyofficial&show_icons=true&theme=radical" height="200"/>
     </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" height="200"/>
-</p>
-<table>
-  <tr>
     <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyyofficial&theme=radical" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyyofficial&layout=compact&theme=radical" height="200"/>
     </td>
   </tr>
 </table>
 
 ---
+
 
 ## 📫 Connect With Me  
 
