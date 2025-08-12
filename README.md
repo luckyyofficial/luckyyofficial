@@ -23,11 +23,11 @@
 
 <p align="center">
   <img src="./img/html5.svg" alt="HTML5" width="60" height="60" />
-  <img src="./img/css-3.svg" alt="CSS3" width="60" height="60" />
-  <img src="./img/javascript.svg" alt="JavaScript" width="60" height="60" />
+  <img src="./img/css3.svg" alt="CSS3" width="60" height="60" />
+  <img src="./img/js.svg" alt="JavaScript" width="60" height="60" />
   <img src="./img/c.svg" alt="C" width="60" height="60" />
-  <img src="./img/c-plusplus.svg" alt="C++" width="60" height="60" />
-  <img src="./img/tailwind-css.svg" alt="TailwindCSS" width="60" height="60" />
+  <img src="./img/c++.svg" alt="C++" width="60" height="60" />
+  <img src="./img/tailwind.svg" alt="TailwindCSS" width="60" height="60" />
 </p>
 
 
