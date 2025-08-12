@@ -85,18 +85,19 @@
 ## 📫 Connect With Me  
 
 <p align="center">
-  <a href="https://your-portfolio-link.com">
-    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="./img/portfolio.svg" alt="Portfolio" width="80" height="80" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="./img/email.svg" alt="Email" width="80" height="80" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/YourUsername">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  &nbsp;&nbsp;
+  <a href="https://github.com/YourUsername" target="_blank">
+    <img src="./img/githubend.svg" alt="GitHub" width="80" height="80" />
   </a>
 </p>
+
 
 
 
