@@ -42,10 +42,11 @@
 </p>
 
 **Tools & Platforms:**  
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
-
-
+<p align="center">
+  <img src="./img/git.svg" alt="HTML5" width="60" height="60" />
+  <img src="./img/github.svg" alt="CSS3" width="60" height="60" />
+  <img src="./img/vscode.svg" alt="JavaScript" width="60" height="60" />
+</p>
 
 
 ---
