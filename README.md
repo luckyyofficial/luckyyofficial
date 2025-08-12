@@ -87,7 +87,7 @@
 
 ---
 
-## 📫 Connect With Me  
+## 📫 <h2 align="center" > Connect With Me </h2>  
 <p align="center">
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="./img/portfolio.svg" alt="Portfolio" height="60" />
