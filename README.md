@@ -8,8 +8,7 @@
 ## 🚀 About Me  
  🔹 Passionate about **technology, coding, and problem-solving**.  
  🔹 Skilled in **Web Development, CCNA Networking, Linux, C, and C++**.  
- 🔹 Currently learning **Cybersecurity & Kali Linux** step-by-step.  
- 🔹 Focused on **building a lean body** and maintaining a disciplined daily routine.  
+ 🔹 Currently learning **Cybersecurity & Kali Linux** step-by-step.   
  🔹 Freelancing experience delivering **high-quality tech projects**.  
  🔹 Running **startup web projects** with a focus on innovation and real-world impact.  
 
