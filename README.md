@@ -97,7 +97,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/luckyyofficial" target="_blank">
-    <img src="./img/githubend.svg" alt="GitHub" height="60" />
+    <img src="./img/githubend.svg" alt="GitHub" height="60" target="_blank" />
   </a>
 </p>
 
