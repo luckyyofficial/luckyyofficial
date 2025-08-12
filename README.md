@@ -19,6 +19,14 @@
 
 ---
 
+## 📌 Featured Projects  
+- **Personal Portfolio** – My main portfolio website showcasing my work and skills.  
+- **Demo Portfolio** – A sample portfolio project created to demonstrate web design and layout skills.  
+- **HTML Learning Repository** – A complete collection of HTML examples and explanations to learn HTML from scratch.  
+- **CSS Learning Repository** – A structured repository with CSS examples, layouts, and styling techniques.  
+
+---
+
 ## 🛠 Tech Stack  
 
 **Languages & Frameworks:**  
@@ -63,13 +71,6 @@
 
 ---
 
-## 📌 Featured Projects  
-- **Personal Portfolio** – My main portfolio website showcasing my work and skills.  
-- **Demo Portfolio** – A sample portfolio project created to demonstrate web design and layout skills.  
-- **HTML Learning Repository** – A complete collection of HTML examples and explanations to learn HTML from scratch.  
-- **CSS Learning Repository** – A structured repository with CSS examples, layouts, and styling techniques.  
-
----
 
 ## 📊 GitHub Stats
 
