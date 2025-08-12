@@ -44,6 +44,8 @@
   <img src="./img/nmap.svg" alt="Nmap" height="50" />
   <img src="./img/metasploit.svg" alt="Metasploit" height="50" />
   <img src="./img/owaspzap.png" alt="OWASP ZAP" height="50" />
+  <img src="./img/hydra.jpg" alt="OWASP ZAP" height="50" />
+  <img src="./img/Aircrackng.jpg" alt="OWASP ZAP" height="50" />
 </p>
 
 **Tools & Platforms:**  
