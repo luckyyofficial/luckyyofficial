@@ -22,7 +22,7 @@
 **Languages & Frameworks:**  
 
 <p align="center">
-  <img src="./img/html-5.svg" alt="HTML5" width="60" height="60" />
+  <img src="./img/html5.svg" alt="HTML5" width="60" height="60" />
   <img src="./img/css-3.svg" alt="CSS3" width="60" height="60" />
   <img src="./img/javascript.svg" alt="JavaScript" width="60" height="60" />
   <img src="./img/c.svg" alt="C" width="60" height="60" />
