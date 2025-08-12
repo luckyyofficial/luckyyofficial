@@ -19,7 +19,17 @@
 ## 🛠 Tech Stack  
 
 **Languages & Frameworks:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+**Languages & Frameworks:**  
+
+<p align="center">
+  <img src="./img/html-5.svg" alt="HTML5" width="60" height="60" />
+  <img src="./img/css-3.svg" alt="CSS3" width="60" height="60" />
+  <img src="./img/javascript.svg" alt="JavaScript" width="60" height="60" />
+  <img src="./img/c.svg" alt="C" width="60" height="60" />
+  <img src="./img/c-plusplus.svg" alt="C++" width="60" height="60" />
+  <img src="./img/tailwind-css.svg" alt="TailwindCSS" width="60" height="60" />
+</p>
+
 
 **Networking & Cybersecurity:**  
 ![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2F94C9?style=for-the-badge&logo=metasploit&logoColor=white)  
