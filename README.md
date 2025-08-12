@@ -51,7 +51,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=luckyyofficial&show_icons=true&theme=radical" height="200"/>
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=luckyyofficial&theme=radical" height="200"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=luckyyofficial&theme=radical" height="200"/>
     </td>
   </tr>
   <tr>
