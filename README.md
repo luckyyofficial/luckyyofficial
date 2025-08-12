@@ -43,7 +43,7 @@
   <img src="./img/wireshark.svg" alt="Wireshark" height="50" />
   <img src="./img/nmap.svg" alt="Nmap" height="50" />
   <img src="./img/metasploit.svg" alt="Metasploit" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/burpsuite.svg" alt="Burp Suite" height="50" />
+  <img src="./img/owaspzap.png.svg" alt="Metasploit" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/zaproxy.svg" alt="OWASP ZAP" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/thc-hydra.svg" alt="Hydra" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/aircrack-ng.svg" alt="Aircrack-ng" height="50" />
