@@ -89,7 +89,7 @@
 
 
 ## 📫 Connect With Me  
-<p>
+<p allign="centre" >
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="./img/portfolio.svg" alt="Portfolio" height="60" />
   </a>
