@@ -87,21 +87,13 @@
 
 ---
 
-## <h2 align="center" >📫 Connect With Me </h2>  
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="./img/portfolio.svg" alt="Portfolio" height="60" />
-  </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=youremail@example.com&su=Hello%20Lakshay&body=Hi%20Lakshay">
-  <img src="./img/email.svg" alt="Email Lakshay" title="Email Lakshay" height="60" />
-</a>
+<h2 align="center">📫 Connect With Me</h2>
+<div style="display:flex; justify-content:center; gap:15px; align-items:center;">
+  <a href="https://your-portfolio-link.com" target="_blank"><img src="./img/portfolio.svg" alt="Portfolio" height="60" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=youremail@example.com&su=Hello%20Lakshay&body=Hi%20Lakshay"><img src="./img/email.svg" alt="Email Lakshay" title="Email Lakshay" height="60" /></a>
+  <a href="https://github.com/luckyyofficial" target="_blank"><img src="./img/githubend.svg" alt="GitHub" height="60" /></a>
+</div>
 
-  &nbsp;&nbsp;
-<a href="https://github.com/luckyyofficial" target="_blank">
-  <img src="./img/githubend.svg" alt="GitHub" height="60" />
-</a>
-
-</p>
 
 ---
 
