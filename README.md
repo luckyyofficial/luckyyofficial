@@ -19,9 +19,9 @@
 ## 🛠 Tech Stack  
 
 **Languages & Frameworks:**  
-**Languages & Frameworks:**  
 
-<p align="center">
+
+<p >
   <img src="./img/html5.svg" alt="HTML5" width="60" height="60" />
   <img src="./img/css3.svg" alt="CSS3" width="60" height="60" />
   <img src="./img/js.svg" alt="JavaScript" width="60" height="60" />
@@ -32,7 +32,7 @@
 
 
 **Networking & Cybersecurity:**  
-<p align="center">
+<p >
   <img src="./img/packettracer.svg" alt="HTML5" width="60" height="60" />
   <img src="./img/linux.svg" alt="CSS3" width="60" height="60" />
   <img src="./img/kalilinux.svg" alt="JavaScript" width="60" height="60" />
@@ -42,7 +42,7 @@
 </p>
 
 **Tools & Platforms:**  
-<p align="center">
+<p >
   <img src="./img/git.svg" alt="HTML5" width="60" height="60" />
   <img src="./img/github.svg" alt="CSS3" width="60" height="60" />
   <img src="./img/vscode.svg" alt="JavaScript" width="60" height="60" />
@@ -63,7 +63,7 @@
 
 ## 📊 GitHub Stats
 
-<table align="center">
+<table >
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=luckyyofficial&show_icons=true&theme=radical" height="200"/>
@@ -84,7 +84,7 @@
 
 ## 📫 Connect With Me  
 
-<p align="center">
+<p >
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="./img/portfolio.svg" alt="Portfolio" width="80" height="80" />
   </a>
