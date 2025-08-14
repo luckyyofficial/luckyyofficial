@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
  🔹 Passionate about **technology, coding, and problem-solving**.  
  🔹 Skilled in **Web Development, CCNA Networking, Linux, C, and C++**.  
  🔹 Currently learning **Cybersecurity & Kali Linux** step-by-step.   
