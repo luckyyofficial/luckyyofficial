@@ -99,8 +99,8 @@
     <img src="./img/githubend.svg" alt="GitHub" height="60" />
   </a>&nbsp;&nbsp;
   
-  <a href="www.linkedin.com/in/lakshay-lakshay-542533371" target="_blank">
-    <img src="./img/Linkedin-Logo.png" alt="LinkedIn" title="LinkedIn" height="30" />
+  <a href="https://www.linkedin.com/in/lakshay-lakshay-542533371/" target="_blank">
+    <img src="./img/Linkedin-Logo.png" alt="LinkedIn" title="LinkedIn" height="60" />
   </a>
 </p>
 
