@@ -16,10 +16,11 @@
 
 
 ## 📌 Featured Projects
-- **Personal Portfolio** – My main portfolio website showcasing my work and skills.  
-- **Demo Portfolio** – A sample portfolio project created to demonstrate web design and layout skills.  
-- **HTML Learning Repository** – A complete collection of HTML examples and explanations to learn HTML from scratch.  
-- **CSS Learning Repository** – A structured repository with CSS examples, layouts, and styling techniques.  
+
+- [**Personal Portfolio**](https://your-portfolio-url.com) – My main portfolio website showcasing my work and skills.  
+- [**Demo Portfolio**](https://your-demo-portfolio.com) – A sample portfolio project created to demonstrate web design and layout skills.  
+- [**HTML Learning Repository**](https://github.com/yourname/html-learning-repo) – A complete collection of HTML examples and explanations to learn HTML from scratch.  
+- [**CSS Learning Repository**](https://github.com/yourname/css-learning-repo) – A structured repository with CSS examples, layouts, and styling techniques.
 
 ---
 
