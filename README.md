@@ -100,7 +100,7 @@
   </a>&nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/lakshay-lakshay-542533371/" target="_blank">
-    <img src="./img/Linkedin-Logo.png" alt="LinkedIn" title="LinkedIn" height="60" />
+    <img src="./img/Linkedin-Logo.png" alt="LinkedIn" title="LinkedIn" height="30" />
   </a>
 </p>
 
