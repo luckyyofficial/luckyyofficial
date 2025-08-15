@@ -22,7 +22,7 @@
 - [**HTML Learning Repository**](https://github.com/yourname/html-learning-repo) – A complete collection of HTML examples and explanations to learn HTML from scratch.  
 - [**CSS Learning Repository**](https://github.com/yourname/css-learning-repo) – A structured repository with CSS examples, layouts, and styling techniques.
 
----
+---                
 
 ## 🛠 Tech Stack  
 
