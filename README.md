@@ -1,11 +1,11 @@
-# 👋 Hello, I'm Lucky  
+# Hello, I'm Lucky  
 
-💻 **Web Developer | CCNA Networking | Ethical Hacking Learner**  
+**Web Developer | CCNA Networking | Ethical Hacking Learner**  
 📍 India  
   
 ---
 
-## 🚀 About Me  
+##   About Me  
  🔹 Passionate about **technology, coding, and problem-solving**.  
  🔹 Skilled in **Web Development, CCNA Networking, Linux, C, and C++**.  
  🔹 Currently learning **Cybersecurity & Kali Linux** step-by-step.   
@@ -14,16 +14,13 @@
 
 ---
 
-## 📈 Contribution Graph  
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luckyyofficial&bg_color=ffffff&color=000000&line=00b300&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+## 📌 Featured Projects
 
-## 📌 Featured Projects  
-- **Personal Portfolio** – My main portfolio website showcasing my work and skills.  
-- **Demo Portfolio** – A sample portfolio project created to demonstrate web design and layout skills.  
-- **HTML Learning Repository** – A complete collection of HTML examples and explanations to learn HTML from scratch.  
-- **CSS Learning Repository** – A structured repository with CSS examples, layouts, and styling techniques.  
+- [**Personal Portfolio**](https://your-portfolio-url.com) – My main portfolio website showcasing my work and skills.  
+- [**Demo Portfolio**](https://your-demo-portfolio.com) – A sample portfolio project created to demonstrate web design and layout skills.  
+- [**HTML Learning Repository**](https://github.com/yourname/html-learning-repo) – A complete collection of HTML examples and explanations to learn HTML from scratch.  
+- [**CSS Learning Repository**](https://github.com/yourname/css-learning-repo) – A structured repository with CSS examples, layouts, and styling techniques.
 
 ---
 
@@ -87,21 +84,26 @@
 
 ---
 
-## <h2 align="center" >📫 Connect With Me </h2>  
+<h2 align="center">🔗 Connect With Me</h2>
+
 <p align="center">
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="./img/portfolio.svg" alt="Portfolio" height="60" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lakshayjofficial@gmail.com&su=Hello%20Lakshay&body=Hi%20Lakshay , " target="_blank">
+    <img src="./img/email.svg" alt="Email Lakshay" title="Email Lakshay" height="60" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://github.com/luckyyofficial" target="_blank">
+    <img src="./img/githubend.svg" alt="GitHub" height="60" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/lakshay-lakshay-542533371/" target="_blank">
+    <img src="./img/Linkedin-Logo.png" alt="LinkedIn" title="LinkedIn" height="30" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="./img/email.svg" alt="Email" height="60" />
-  </a>
-  &nbsp;&nbsp;
-<a href="https://github.com/luckyyofficial" target="_blank">
-  <img src="./img/githubend.svg" alt="GitHub" height="60" />
-</a>
-
 </p>
+
 
 ---
 
