@@ -52,9 +52,9 @@
   <img src="./img/hydra.jpg" alt="OWASP ZAP" height="50" />
   <img src="./img/Aircrackng.jpg" alt="OWASP ZAP" height="50" />
 </p>
-
+              
 **Tools & Platforms:**  
-<p>
+<p>          
   <img src="./img/git.svg" alt="Git" height="50" />
   <img src="./img/github.svg" alt="GitHub" height="50" />
   <img src="./img/vscode.svg" alt="VS Code" height="50" />
