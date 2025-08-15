@@ -25,7 +25,7 @@
 ---                
 
 ## 🛠 Tech Stack  
-
+                   
 **Languages & Frameworks:**  
 <p>
   <img src="./img/html5.svg" alt="HTML5" height="50" />
