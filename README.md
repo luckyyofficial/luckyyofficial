@@ -39,9 +39,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />
   <img src="./img/tailwind.svg" alt="TailwindCSS" height="50" />
 </p>
-
-**Networking & Cybersecurity:**  
-<p>
+                    
+**Networking & Cybersecurity:**                
+<p>                  
   <img src="./img/packettracer.svg" alt="Packet Tracer" height="50" />
   <img src="./img/linux.svg" alt="Linux" height="50" />
   <img src="./img/kalilinux.svg" alt="Kali Linux" height="50" />
