@@ -62,9 +62,9 @@
                 
 **Networking & Cybersecurity:**                       
 <p>         
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="./img/packettracer.svg" alt="HTML5" height="50" />
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">                         
+    <img src="./img/packettracer.svg" alt="HTML5" height="50" />                              
+  </a>                     
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="./img/linux.svg" alt="HTML5" height="50" />
   </a>
