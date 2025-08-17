@@ -1,6 +1,6 @@
 # Hello, I'm Lucky  
 
-**Web Developer | CCNA Networking | Ethical Hacking Learner**  
+**Web Developer | CCNA Networking | Ethical Hacking hacking enthusiast**  
 📍 India  
   
 ---
@@ -25,45 +25,101 @@
 ---                
 
 ## 🛠 Tech Stack  
-                   
+
 **Languages & Frameworks:**  
 <p>
-  <img src="./img/html5.svg" alt="HTML5" height="50" />
-  <img src="./img/css3.svg" alt="CSS3" height="50" />
-  <img src="./img/js.svg" alt="JavaScript" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" />
-  <img src="./img/c.svg" alt="C" height="50" />
-  <img src="./img/c++.svg" alt="C++" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-  <img src="./img/tailwind.svg" alt="TailwindCSS" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/html5.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="./img/css3.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="./img/js.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="./img/reactjs.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="./img/nodejs.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://www.python.org" target="_blank">
+    <img src="./img/python.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="./img/c.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank">
+    <img src="./img/c++.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://getbootstrap.com/" target="_blank">
+    <img src="./img/bootstrap.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://tailwindcss.com/" target="_blank">
+    <img src="./img/tailwind.svg" alt="HTML5" height="50" />
+  </a>
 </p>
-                    
-**Networking & Cybersecurity:**                
-<p>                  
-  <img src="./img/packettracer.svg" alt="Packet Tracer" height="50" />
-  <img src="./img/linux.svg" alt="Linux" height="50" />
-  <img src="./img/kalilinux.svg" alt="Kali Linux" height="50" />
-  <img src="./img/wireshark.svg" alt="Wireshark" height="50" />
-  <img src="./img/nmap.svg" alt="Nmap" height="50" />
-  <img src="./img/metasploit.svg" alt="Metasploit" height="50" />
-  <img src="./img/owaspzap.png" alt="OWASP ZAP" height="50" />
-  <img src="./img/hydra.jpg" alt="OWASP ZAP" height="50" />
-  <img src="./img/Aircrackng.jpg" alt="OWASP ZAP" height="50" />
+
+**Networking & Cybersecurity:**  
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/packettracer.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/linux.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/kalilinux.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/wireshark.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/nmap.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/metasploit.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/owaspzap.png" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/hydra.jpg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/Aircrackng.jpg" alt="HTML5" height="50" />
+  </a>
 </p>
-                                 
-**Tools & Platforms:**                
-<p>          
-  <img src="./img/git.svg" alt="Git" height="50" />         
-  <img src="./img/github.svg" alt="GitHub" height="50" />          
-  <img src="./img/vscode.svg" alt="VS Code" height="50" />     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" alt="Postman" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" alt="Figma" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/virtualbox.svg" alt="VirtualBox" height="50" />
+
+**Tools & Platforms:**  
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/git.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/github.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/vscode.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/dock.svg" alt="HTML5" height="50" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/blackman.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/smallcircle.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/whale.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/leaf.svg" alt="HTML5" height="50" />
+  </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="./img/vb.svg" alt="HTML5" height="50" />
+  </a>
 </p>
                  
 ---              
