@@ -19,8 +19,8 @@
 
 - [**Personal Portfolio**](https://your-portfolio-url.com) – My main portfolio website showcasing my work and skills.  
 - [**Demo Portfolio**](https://your-demo-portfolio.com) – A sample portfolio project created to demonstrate web design and layout skills.  
-- [**HTML Learning Repository**](https://github.com/yourname/html-learning-repo) – A complete collection of HTML examples and explanations to learn HTML from scratch.  
-- [**CSS Learning Repository**](https://github.com/yourname/css-learning-repo) – A structured repository with CSS examples, layouts, and styling techniques.
+- [**Full-Stack Web Development Repository**](https://github.com/yourname/fullstack-webdev-repo) – A complete collection of HTML, CSS, and other resources to learn and build modern web applications from scratch.
+
 
 ---                
 
