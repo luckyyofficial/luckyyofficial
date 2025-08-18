@@ -19,7 +19,7 @@
 
 - [**Personal Portfolio**](https://your-portfolio-url.com) – My main portfolio website showcasing my work and skills.  
 - [**Demo Portfolio**](https://your-demo-portfolio.com) – A sample portfolio project created to demonstrate web design and layout skills.
-- [**C Programming Repository**](https://github.com/yourname/c-programming-repo) – A structured collection of C programs with explanations to learn C programming from the basics.
+- [**C Programming Repository**](https://github.com/luckyyofficial/c-programming) – A structured collection of C programs with explanations to learn C programming from the basics.
 - [**Full-Stack Web Dev**](https://github.com/luckyyofficial/web-dev) – A complete collection of HTML, CSS, and other resources to learn and build modern web applications from scratch.
 
 
