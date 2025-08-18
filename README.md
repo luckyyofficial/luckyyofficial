@@ -19,7 +19,7 @@
 
 - [**Personal Portfolio**](https://your-portfolio-url.com) – My main portfolio website showcasing my work and skills.  
 - [**Demo Portfolio**](https://your-demo-portfolio.com) – A sample portfolio project created to demonstrate web design and layout skills.  
-- [**Full-Stack Web Dev**](https://github.com/yourname/fullstack-webdev-repo) – A complete collection of HTML, CSS, and other resources to learn and build modern web applications from scratch.
+- [**Full-Stack Web Dev**]([https://github.com/yourname/fullstack-webdev-repo](https://github.com/luckyyofficial/web-dev)) – A complete collection of HTML, CSS, and other resources to learn and build modern web applications from scratch.
 
 
 ---                
