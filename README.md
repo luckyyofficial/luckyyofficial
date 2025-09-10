@@ -1,6 +1,6 @@
 # Hello, I'm Lucky  
 
-**Web Developer | CCNA Networking | Ethical Hacking hacking enthusiast**  
+**Web Developer | CCNA Networking | Ethical hacking enthusiast**  
 📍 India  
   
 ---
