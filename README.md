@@ -126,18 +126,6 @@
 ---              
               
 
-## 📊 GitHub Stats
-
-<table align="center" >
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=luckyyofficial&show_icons=true&theme=radical" height="200"/>
-    </td>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckyyofficial&layout=compact&theme=radical" height="200"/>
-    </td>
-  </tr>
-</table>
 
 ---
 
