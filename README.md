@@ -4,7 +4,7 @@
 📍 India  
   
 ---
-
+ 
 ##   About Me  
  🔹 Passionate about **technology, coding, and problem-solving**.  
  🔹 Skilled in **Web Development, CCNA Networking, Linux, C, and C++**.  
