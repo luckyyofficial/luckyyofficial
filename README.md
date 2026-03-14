@@ -135,7 +135,7 @@
   </a>&nbsp;&nbsp;
   
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=lakshayjofficial@gmail.com&su=Hello%20Lucky&body=Hi%20Lucky , " target="_blank">
-    <img src="./img/email.svg" alt="Email Lakshay" title="Email Lakshay" height="60" />
+    <img src="./img/email.svg" alt="Email Lakshay" title="Email Lucky" height="60" />
   </a>&nbsp;&nbsp;
   
   <a href="https://github.com/luckyyofficial" target="_blank">
