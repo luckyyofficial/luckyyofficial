@@ -17,7 +17,7 @@
                 
 ## 📌 Featured Projects
 
-- [**Personal Portfolio**](https://your-portfolio-url.com) – My main portfolio website showcasing my work and skills.  
+- [**Personal Portfolio**](https://luckyyofficial.github.io/portfolio) – My main portfolio website showcasing my work and skills.  
 - [**C Programming**](https://github.com/luckyyofficial/c-programming) – A structured collection of C programs with explanations to learn C programming from the basics.
 - [**UI Snippets Repository**](https://github.com/luckyyofficial/ui-snippets.git) – A growing collection of frontend development snippets, styles, and patterns—created, tested, and documented for both learning and rapid implementation in web projects.
 - [**linux-cheatsheet**](https://github.com/luckyyofficial/linux-cheatsheet.git) – A professional guide to mastering Linux architecture, networking, and security auditing.
