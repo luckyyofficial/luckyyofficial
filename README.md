@@ -8,9 +8,9 @@
 ##   About Me  
  🔹 Passionate about **technology, coding, and problem-solving**.  
  🔹 Skilled in **Web Development, CCNA Networking, Linux, C, and C++**.  
- 🔹 Currently learning **Cybersecurity & Kali Linux** .   
+ 🔹 Currently learning **Cybersecurity & Kali Linux** 
  🔹 Freelancing experience delivering **high-quality tech projects**.  
- 🔹 Running **startup web projects** with a focus on innovation and real-world impact.  
+ 🔹 Running **startup web projects** with a focus on innovation and real-world impact.       
 
 ---           
 
@@ -18,7 +18,7 @@
 ## 📌 Featured Projects
 
 - [**Personal Portfolio**](https://luckyyofficial.github.io/portfolio) – My main portfolio website showcasing my work and skills.  
-- [**C Programming**](https://github.com/luckyyofficial/c-programming) – A structured collection of C programs with explanations to learn C programming from the basics.
+- [**C Programming**].   (https://github.com/luckyyofficial/c-programming) – A structured collection of C programs with explanations to learn C programming from the basics.
 - [**UI Snippets Repository**](https://github.com/luckyyofficial/ui-snippets.git) – A growing collection of frontend development snippets, styles, and patterns—created, tested, and documented for both learning and rapid implementation in web projects.
 - [**linux-cheatsheet**](https://github.com/luckyyofficial/linux-cheatsheet.git) – A professional guide to mastering Linux architecture, networking, and security auditing.
 - [**Full-Stack Web Dev**](https://github.com/luckyyofficial/web-dev.git) – A complete collection of HTML, CSS, and other resources to learn and build modern web applications from scratch.
