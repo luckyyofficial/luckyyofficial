@@ -11,10 +11,10 @@
  🔹 Currently learning **Cybersecurity & Kali Linux** 
  🔹 Freelancing experience delivering **high-quality tech projects**.  
  🔹 Running **startup web projects** with a focus on innovation and real-world impact.       
-
----           
-
-                
+   
+---             
+  
+                  
 ## 📌 Featured Projects
 
 - [**Personal Portfolio**](https://luckyyofficial.github.io/portfolio) – My main portfolio website showcasing my work and skills.  
