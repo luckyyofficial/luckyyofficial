@@ -15,7 +15,7 @@
 ---             
   
                   
-## 📌 Featured Projects
+## 📌 Featured Projects  
 
 - [**Personal Portfolio**](https://luckyyofficial.github.io/portfolio) – My main portfolio website showcasing my work and skills.  
 - [**C Programming**].   (https://github.com/luckyyofficial/c-programming) – A structured collection of C programs with explanations to learn C programming from the basics.
