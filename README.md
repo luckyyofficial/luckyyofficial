@@ -150,4 +150,4 @@
 
 ---
 
-<p align="center"><b>⭐ “Consistency beats talent when talent doesn’t work hard.” ⭐</b></p>
+<p align="center"><b>⭐ “Consistency beats talent when talent doesn’t work hard ” ⭐</b></p>
